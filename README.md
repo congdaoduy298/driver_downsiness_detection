@@ -6,7 +6,7 @@ This project include :
  
  + training_model.ipynb: after create data, using that data to training weights of CNN. Save the weights 
  
-    and architectures of model to : model.h5 file 
+    and architectures of model to file model.h5.
  
  + downsiness_detection.py: detect faces and detect eyes in the biggest face (using pretrained Haar Cascade). 
  
